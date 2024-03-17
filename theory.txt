@@ -1,0 +1,18 @@
+with prototype, you can add new blocks in to the object.
+
+function Car(..,..)
+{
+    ....
+}
+
+you can define new function by
+
+Car.prototype.getColor()
+{
+
+}
+
+-->
+window.open(url,name,[features,replace])
+wondow.onload() -> used to call a function when page is loaded
+wondow.dump
